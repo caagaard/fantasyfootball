@@ -1,5 +1,5 @@
 # fantasyfootball
-Data modeling to optimize fantasy football drafting.  This model is specifically made for modeling ESPN standard 10 team leagues with auction drafts.
+Data modeling to optimize fantasy football drafting.  This model is specifically made for modeling ESPN standard 10 team leagues with auction drafts.  Currently only the python files for scraping the data have been committed.  R scripts for data analysis are coming soon.
 
 **Goals for future versions**<br>
 *Organize and include data analysis scripts* <br>
