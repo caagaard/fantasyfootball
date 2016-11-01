@@ -32,6 +32,11 @@
 #### simulated teams won about 49.5% of games).  Players within a position were ranked by simulating how
 #### a team would perform substituting that player for the simulated 'average' player.
 
+#### To Be Fixed/Added/Changed
+####
+#### Several functions should be vectorized that currently use loops
+#### Once functions are vectorized, allow for simulating full teams of individual players
+
 
 #### Global variables are listed below.  Many of them could be passed as parameters in functions,
 #### but it would become unwieldy to type such large numbers of inputs into the functions.  If using
