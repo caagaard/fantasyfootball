@@ -1,0 +1,8 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Matt Jones, WAS, PIT, RB, 19, 3.30, 
+Matt Jones, WAS, DAL, RB, 39, 12.50, 
+Matt Jones, WAS, NYG, RB, 33, 7.90, 
+Matt Jones, WAS, CLE, RB, 41, 19.80, 
+Matt Jones, WAS, BAL, RB, 37, 3.60, 
+Matt Jones, WAS, PHI, RB, 30, 19.50, 
+Matt Jones, WAS, DET, RB, 22, 0.70, 

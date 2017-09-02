@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Seth Devalve, CLE, PHI, TE, 3, 0, 
+Seth Devalve, CLE, BAL, TE, 5, 0, 
+Seth Devalve, CLE, MIA, TE, 3, 0, 
+Seth Devalve, CLE, NYJ, TE, 11, 0.50, 
+Seth Devalve, CLE, DAL, TE, 5, 0, 
+Seth Devalve, CLE, BAL, TE, 5, 8.50, 
+Seth Devalve, CLE, PIT, TE, 6, 0.80, 
+Seth Devalve, CLE, NYG, TE, 20, 3.90, 
+Seth Devalve, CLE, CIN, TE, 4, 1.10, 
+Seth Devalve, CLE, BUF, TE, 14, 0.60, 
+Seth Devalve, CLE, SDG, TE, 7, 2.10, 
+Seth Devalve, CLE, PIT, TE, 10, 7.20, 

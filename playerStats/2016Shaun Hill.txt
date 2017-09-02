@@ -1,0 +1,4 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Shaun Hill, MIN, TEN, QB, 63, 10.24, 
+Shaun Hill, MIN, DAL, QB, 2, 0.24, 
+Shaun Hill, MIN, CHI, QB, 9, 0, 

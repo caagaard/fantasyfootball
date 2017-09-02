@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Jonathan Grimes, HOU, CHI, RB, 0, 0, 
+Jonathan Grimes, HOU, KAN, RB, 10, 2.10, 
+Jonathan Grimes, HOU, NWE, RB, 15, 1.90, 
+Jonathan Grimes, HOU, DET, RB, 17, 1.10, 
+Jonathan Grimes, HOU, SDG, RB, 13, 1.40, 
+Jonathan Grimes, HOU, GNB, RB, 25, 5.80, 
+Jonathan Grimes, HOU, IND, RB, 16, 1.20, 
+Jonathan Grimes, HOU, JAX, RB, 23, 1.50, 
+Jonathan Grimes, HOU, CIN, RB, 12, 0, 
+Jonathan Grimes, HOU, TEN, RB, 44, 4.90, 

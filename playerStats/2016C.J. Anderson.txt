@@ -1,0 +1,8 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+C.J. Anderson, DEN, CAR, RB, 48, 25.90, 
+C.J. Anderson, DEN, IND, RB, 47, 15.30, 
+C.J. Anderson, DEN, CIN, RB, 48, 4.10, 
+C.J. Anderson, DEN, TAM, RB, 48, 11.20, 
+C.J. Anderson, DEN, ATL, RB, 36, 6.20, 
+C.J. Anderson, DEN, SDG, RB, 58, 7.10, 
+C.J. Anderson, DEN, HOU, RB, 29, 16.70, 

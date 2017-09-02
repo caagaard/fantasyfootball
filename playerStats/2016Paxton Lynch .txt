@@ -1,0 +1,4 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Paxton Lynch , DEN, TAM, QB, 51, 10.40, 
+Paxton Lynch , DEN, ATL, QB, 70, 12.72, 
+Paxton Lynch , DEN, JAX, QB, 55, 5.26, 

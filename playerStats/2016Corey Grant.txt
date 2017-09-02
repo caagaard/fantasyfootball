@@ -1,0 +1,12 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Corey Grant, JAX, GNB, RB, 0, 0, 
+Corey Grant, JAX, SDG, RB, 7, 7.50, 
+Corey Grant, JAX, BAL, RB, 1, 0, 
+Corey Grant, JAX, IND, RB, 0, 0, 
+Corey Grant, JAX, DET, RB, 0, 0, 
+Corey Grant, JAX, BUF, RB, 0, 0, 
+Corey Grant, JAX, DEN, RB, 6, 0.20, 
+Corey Grant, JAX, MIN, RB, 11, 1.30, 
+Corey Grant, JAX, HOU, RB, 0, 0, 
+Corey Grant, JAX, TEN, RB, 27, 3.20, 
+Corey Grant, JAX, IND, RB, 47, 19.70, 

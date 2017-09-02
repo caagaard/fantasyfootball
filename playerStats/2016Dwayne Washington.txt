@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Dwayne Washington, DET, IND, RB, 2, 6.10, 
+Dwayne Washington, DET, TEN, RB, 11, 3.10, 
+Dwayne Washington, DET, GNB, RB, 25, 3.50, 
+Dwayne Washington, DET, CHI, RB, 7, 1.40, 
+Dwayne Washington, DET, MIN, RB, 21, 2.60, 
+Dwayne Washington, DET, JAX, RB, 24, 2.10, 
+Dwayne Washington, DET, MIN, RB, 13, 1.90, 
+Dwayne Washington, DET, NOR, RB, 23, 4.00, 
+Dwayne Washington, DET, CHI, RB, 44, 7.40, 
+Dwayne Washington, DET, NYG, RB, 44, 4.00, 
+Dwayne Washington, DET, DAL, RB, 16, 2.60, 
+Dwayne Washington, DET, GNB, RB, 0, 0, 

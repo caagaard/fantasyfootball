@@ -1,0 +1,4 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Scott Tolzien, IND, PIT, QB, 63, 8.80, 
+Scott Tolzien, IND, NYJ, QB, 15, 0.14, 
+Scott Tolzien, IND, MIN, QB, 5, 0, 

@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Darren Waller, BAL, WAS, TE, 18, 0, 
+Darren Waller, BAL, NYG, TE, 10, 0, 
+Darren Waller, BAL, NYJ, TE, 9, 0, 
+Darren Waller, BAL, PIT, TE, 23, 1.70, 
+Darren Waller, BAL, CLE, TE, 29, 7.40, 
+Darren Waller, BAL, DAL, TE, 14, 0, 
+Darren Waller, BAL, CIN, TE, 27, 1.40, 
+Darren Waller, BAL, MIA, TE, 28, 1.50, 
+Darren Waller, BAL, NWE, TE, 12, 6.30, 
+Darren Waller, BAL, PHI, TE, 10, 1.10, 
+Darren Waller, BAL, PIT, TE, 28, 1.10, 
+Darren Waller, BAL, CIN, TE, 26, 0, 

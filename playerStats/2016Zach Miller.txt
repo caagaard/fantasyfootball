@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Zach Miller, CHI, HOU, TE, 43, 1.40, 
+Zach Miller, CHI, PHI, TE, 42, 3.30, 
+Zach Miller, CHI, DAL, TE, 65, 19.80, 
+Zach Miller, CHI, DET, TE, 54, 9.10, 
+Zach Miller, CHI, IND, TE, 57, 7.30, 
+Zach Miller, CHI, JAX, TE, 64, 3.60, 
+Zach Miller, CHI, GNB, TE, 48, 4.00, 
+Zach Miller, CHI, MIN, TE, 60, 8.80, 
+Zach Miller, CHI, TAM, TE, 49, 3.20, 
+Zach Miller, CHI, NYG, TE, 28, 12.10, 

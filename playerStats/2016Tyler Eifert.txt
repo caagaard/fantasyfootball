@@ -1,0 +1,9 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Tyler Eifert, CIN, CLE, TE, 15, 0.90, 
+Tyler Eifert, CIN, WAS, TE, 74, 16.20, 
+Tyler Eifert, CIN, NYG, TE, 47, 9.60, 
+Tyler Eifert, CIN, BUF, TE, 62, 3.70, 
+Tyler Eifert, CIN, BAL, TE, 66, 12.80, 
+Tyler Eifert, CIN, PHI, TE, 47, 8.50, 
+Tyler Eifert, CIN, CLE, TE, 59, 16.80, 
+Tyler Eifert, CIN, PIT, TE, 58, 0.90, 

@@ -1,0 +1,5 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Matt Cassel, TEN, DET, QB, 1, 0, 
+Matt Cassel, TEN, JAX, QB, 6, 0.60, 
+Matt Cassel, TEN, JAX, QB, 30, 6.96, 
+Matt Cassel, TEN, HOU, QB, 61, 8.20, 

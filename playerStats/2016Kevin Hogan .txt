@@ -1,0 +1,5 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Kevin Hogan , CLE, CIN, QB, 44, 16.40, 
+Kevin Hogan , CLE, NYJ, QB, 3, 0.16, 
+Kevin Hogan , CLE, BAL, QB, 2, 0.10, 
+Kevin Hogan , CLE, NYG, QB, 1, 0, 

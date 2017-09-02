@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Le'Veon Bell, PIT, KAN, RB, 52, 17.80, 
+Le'Veon Bell, PIT, NYJ, RB, 73, 15.40, 
+Le'Veon Bell, PIT, MIA, RB, 53, 12.80, 
+Le'Veon Bell, PIT, NWE, RB, 72, 14.90, 
+Le'Veon Bell, PIT, BAL, RB, 65, 7.00, 
+Le'Veon Bell, PIT, DAL, RB, 74, 25.40, 
+Le'Veon Bell, PIT, CLE, RB, 69, 26.10, 
+Le'Veon Bell, PIT, IND, RB, 47, 20.20, 
+Le'Veon Bell, PIT, NYG, RB, 72, 16.20, 
+Le'Veon Bell, PIT, BUF, RB, 72, 47.80, 
+Le'Veon Bell, PIT, CIN, RB, 75, 13.10, 
+Le'Veon Bell, PIT, BAL, RB, 57, 25.70, 

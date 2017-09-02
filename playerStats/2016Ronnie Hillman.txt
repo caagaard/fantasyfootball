@@ -1,0 +1,9 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Ronnie Hillman, MIN, PHI, RB, 4, 0, 
+Ronnie Hillman, MIN, CHI, RB, 18, 2.40, 
+Ronnie Hillman, MIN, DET, RB, 16, 6.20, 
+Ronnie Hillman, MIN, WAS, RB, 13, 0.20, 
+Ronnie Hillman, MIN, ARI, RB, 6, 0.90, 
+Ronnie Hillman, SDG, OAK, RB, 13, 3.40, 
+Ronnie Hillman, SDG, CLE, RB, 26, 0.60, 
+Ronnie Hillman, SDG, KAN, RB, 38, 9.10, 

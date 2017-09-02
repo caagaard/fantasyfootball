@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Tom Brady , NWE, CLE, QB, 71, 29.64, 
+Tom Brady , NWE, CIN, QB, 64, 27.24, 
+Tom Brady , NWE, PIT, QB, 57, 18.18, 
+Tom Brady , NWE, BUF, QB, 64, 30.10, 
+Tom Brady , NWE, SEA, QB, 66, 11.34, 
+Tom Brady , NWE, SFO, QB, 77, 28.40, 
+Tom Brady , NWE, NYJ, QB, 73, 19.04, 
+Tom Brady , NWE, LAR, QB, 79, 14.86, 
+Tom Brady , NWE, BAL, QB, 69, 26.14, 
+Tom Brady , NWE, DEN, QB, 75, 7.42, 
+Tom Brady , NWE, NYJ, QB, 59, 20.56, 
+Tom Brady , NWE, MIA, QB, 64, 25.64, 

@@ -1,0 +1,10 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Donte Moncrief, IND, DET, WR, 68, 12.40, 
+Donte Moncrief, IND, DEN, WR, 9, 0.90, 
+Donte Moncrief, IND, KAN, WR, 59, 10.00, 
+Donte Moncrief, IND, GNB, WR, 66, 11.50, 
+Donte Moncrief, IND, TEN, WR, 56, 9.70, 
+Donte Moncrief, IND, PIT, WR, 62, 10.50, 
+Donte Moncrief, IND, NYJ, WR, 64, 8.60, 
+Donte Moncrief, IND, HOU, WR, 47, 0, 
+Donte Moncrief, IND, OAK, WR, 36, 9.00, 

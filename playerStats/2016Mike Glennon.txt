@@ -1,0 +1,3 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Mike Glennon, TAM, ATL, QB, 12, 9.00, 
+Mike Glennon, TAM, CHI, QB, 3, 0, 

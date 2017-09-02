@@ -1,0 +1,4 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Jacoby Brissett, NWE, MIA, QB, 38, 4.88, 
+Jacoby Brissett, NWE, HOU, QB, 62, 14.92, 
+Jacoby Brissett, NWE, BUF, QB, 56, 8.50, 

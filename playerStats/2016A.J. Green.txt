@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+A.J. Green, CIN, NYJ, WR, 54, 24.00, 
+A.J. Green, CIN, PIT, WR, 72, 3.80, 
+A.J. Green, CIN, DEN, WR, 64, 7.70, 
+A.J. Green, CIN, MIA, WR, 59, 23.30, 
+A.J. Green, CIN, DAL, WR, 59, 5.00, 
+A.J. Green, CIN, NWE, WR, 62, 8.80, 
+A.J. Green, CIN, CLE, WR, 52, 22.90, 
+A.J. Green, CIN, WAS, WR, 81, 12.10, 
+A.J. Green, CIN, NYG, WR, 50, 12.80, 
+A.J. Green, CIN, BUF, WR, 2, 0, 

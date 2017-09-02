@@ -1,0 +1,10 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Eddie Royal, CHI, HOU, WR, 36, 11.70, 
+Eddie Royal, CHI, PHI, WR, 38, 5.20, 
+Eddie Royal, CHI, DAL, WR, 51, 2.10, 
+Eddie Royal, CHI, DET, WR, 36, 17.10, 
+Eddie Royal, CHI, IND, WR, 37, 4.30, 
+Eddie Royal, CHI, JAX, WR, 35, 5.40, 
+Eddie Royal, CHI, TAM, WR, 41, 2.40, 
+Eddie Royal, CHI, NYG, WR, 25, 1.30, 
+Eddie Royal, CHI, TEN, WR, 12, 0, 

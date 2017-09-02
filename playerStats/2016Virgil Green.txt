@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Virgil Green, DEN, CAR, TE, 41, 2.80, 
+Virgil Green, DEN, IND, TE, 41, 4.60, 
+Virgil Green, DEN, SDG, TE, 57, 2.10, 
+Virgil Green, DEN, HOU, TE, 39, 0, 
+Virgil Green, DEN, SDG, TE, 48, 5.50, 
+Virgil Green, DEN, OAK, TE, 42, 3.70, 
+Virgil Green, DEN, NOR, TE, 58, 2.40, 
+Virgil Green, DEN, KAN, TE, 50, 0, 
+Virgil Green, DEN, JAX, TE, 39, 0, 
+Virgil Green, DEN, TEN, TE, 32, 0, 
+Virgil Green, DEN, NWE, TE, 5, 0.90, 
+Virgil Green, DEN, OAK, TE, 35, 7.70, 

@@ -1,0 +1,9 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Landry Jones, PIT, KAN, QB, 4, 0, 
+Landry Jones, PIT, NYJ, QB, 2, 0, 
+Landry Jones, PIT, MIA, QB, 5, 0, 
+Landry Jones, PIT, NWE, QB, 73, 13.24, 
+Landry Jones, PIT, DAL, QB, 1, 0, 
+Landry Jones, PIT, IND, QB, 5, 0, 
+Landry Jones, PIT, NYG, QB, 1, 0, 
+Landry Jones, PIT, CLE, QB, 70, 21.08, 

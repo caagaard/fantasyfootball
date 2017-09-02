@@ -1,0 +1,10 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Josh Hill, NOR, OAK, TE, 13, 0, 
+Josh Hill, NOR, CAR, TE, 46, 8.30, 
+Josh Hill, NOR, KAN, TE, 42, 0.60, 
+Josh Hill, NOR, SEA, TE, 61, 0.30, 
+Josh Hill, NOR, SFO, TE, 64, 4.00, 
+Josh Hill, NOR, DEN, TE, 26, 0, 
+Josh Hill, NOR, CAR, TE, 43, 0, 
+Josh Hill, NOR, LAR, TE, 58, 7.40, 
+Josh Hill, NOR, DET, TE, 10, 0.30, 

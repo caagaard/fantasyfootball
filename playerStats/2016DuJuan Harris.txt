@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+DuJuan Harris, SFO, TAM, RB, 26, 5.70, 
+DuJuan Harris, SFO, NOR, RB, 53, 18.20, 
+DuJuan Harris, SFO, ARI, RB, 21, 1.40, 
+DuJuan Harris, SFO, NWE, RB, 13, 0.40, 
+DuJuan Harris, SFO, MIA, RB, 4, 1.50, 
+DuJuan Harris, SFO, CHI, RB, 2, 0.80, 
+DuJuan Harris, SFO, NYJ, RB, 0, 0, 
+DuJuan Harris, SFO, ATL, RB, 0, 0, 
+DuJuan Harris, SFO, LAR, RB, 5, 1.40, 
+DuJuan Harris, SFO, SEA, RB, 5, 0, 

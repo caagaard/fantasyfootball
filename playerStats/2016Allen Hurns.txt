@@ -1,0 +1,12 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Allen Hurns, JAX, GNB, WR, 63, 7.50, 
+Allen Hurns, JAX, SDG, WR, 58, 6.40, 
+Allen Hurns, JAX, BAL, WR, 58, 4.00, 
+Allen Hurns, JAX, IND, WR, 64, 10.70, 
+Allen Hurns, JAX, CHI, WR, 49, 7.40, 
+Allen Hurns, JAX, OAK, WR, 57, 4.50, 
+Allen Hurns, JAX, TEN, WR, 61, 15.80, 
+Allen Hurns, JAX, KAN, WR, 42, 0, 
+Allen Hurns, JAX, HOU, WR, 72, 1.30, 
+Allen Hurns, JAX, DET, WR, 59, 0.90, 
+Allen Hurns, JAX, BUF, WR, 54, 7.20, 

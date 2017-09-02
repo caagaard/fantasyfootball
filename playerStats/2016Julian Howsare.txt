@@ -1,0 +1,3 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Julian Howsare, NYJ, CIN, FB, 1, 0, 
+Julian Howsare, NYJ, BUF, FB, 2, 0, 

@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Jeremy Langford, CHI, HOU, RB, 54, 12.30, 
+Jeremy Langford, CHI, PHI, RB, 31, 7.40, 
+Jeremy Langford, CHI, DAL, RB, 15, 4.60, 
+Jeremy Langford, CHI, MIN, RB, 5, 1.10, 
+Jeremy Langford, CHI, TAM, RB, 19, 2.60, 
+Jeremy Langford, CHI, NYG, RB, 17, 9.80, 
+Jeremy Langford, CHI, TEN, RB, 23, 0.50, 
+Jeremy Langford, CHI, SFO, RB, 4, 0.20, 
+Jeremy Langford, CHI, DET, RB, 20, 0.50, 
+Jeremy Langford, CHI, GNB, RB, 10, 2.20, 
+Jeremy Langford, CHI, WAS, RB, 29, 8.30, 
+Jeremy Langford, CHI, MIN, RB, 20, 4.70, 

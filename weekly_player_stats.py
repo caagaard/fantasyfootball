@@ -5,7 +5,7 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-for year in ['2012', '2013' ,'2014', '2015']:
+for year in ['2016']:#'2012', '2013' ,'2014', '2015', '2016']:
     year_url_list = open(year+'out.txt', 'r').readlines()
 
     for player in year_url_list:

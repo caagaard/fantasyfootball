@@ -1,0 +1,8 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Charles Sims, TAM, ATL, RB, 20, 10.10, 
+Charles Sims, TAM, ARI, RB, 49, 2.80, 
+Charles Sims, TAM, LAR, RB, 68, 18.40, 
+Charles Sims, TAM, DEN, RB, 41, 1.50, 
+Charles Sims, TAM, NOR, RB, 15, 5.00, 
+Charles Sims, TAM, DAL, RB, 20, 1.90, 
+Charles Sims, TAM, NOR, RB, 24, 4.20, 

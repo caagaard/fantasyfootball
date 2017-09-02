@@ -9,7 +9,7 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-for year in['2012', '2013', '2014', '2015']:
+for year in['2012', '2013', '2014', '2015', '2016']:
     web_page = urllib.request.urlopen('http://www.pro-football-reference.com/years/' + year + '/fantasy.htm')
     soup = BeautifulSoup(web_page, 'lxml')
 

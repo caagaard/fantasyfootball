@@ -1,0 +1,3 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Ameer Abdullah, DET, IND, RB, 40, 18.00, 
+Ameer Abdullah, DET, TEN, RB, 17, 3.80, 

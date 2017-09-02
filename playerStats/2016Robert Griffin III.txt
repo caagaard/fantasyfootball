@@ -1,0 +1,6 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Robert Griffin III, CLE, PHI, QB, 51, 9.30, 
+Robert Griffin III, CLE, CIN, QB, 54, 11.26, 
+Robert Griffin III, CLE, BUF, QB, 58, 18.64, 
+Robert Griffin III, CLE, SDG, QB, 61, 10.76, 
+Robert Griffin III, CLE, PIT, QB, 78, 16.48, 

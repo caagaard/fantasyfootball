@@ -1,0 +1,10 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+James Starks, GNB, JAX, RB, 18, 1.30, 
+James Starks, GNB, MIN, RB, 30, 1.90, 
+James Starks, GNB, DET, RB, 12, 0.80, 
+James Starks, GNB, NYG, RB, 49, 5.20, 
+James Starks, GNB, TEN, RB, 55, 10.40, 
+James Starks, GNB, WAS, RB, 33, 13.10, 
+James Starks, GNB, PHI, RB, 54, 6.80, 
+James Starks, GNB, HOU, RB, 7, 0.10, 
+James Starks, GNB, SEA, RB, 7, 0.30, 

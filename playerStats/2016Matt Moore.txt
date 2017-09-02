@@ -1,0 +1,6 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Matt Moore, MIA, BUF, QB, NA, 0, 
+Matt Moore, MIA, ARI, QB, 14, 1.88, 
+Matt Moore, MIA, NYJ, QB, 48, 23.44, 
+Matt Moore, MIA, BUF, QB, 69, 15.22, 
+Matt Moore, MIA, NWE, QB, 59, 14.20, 

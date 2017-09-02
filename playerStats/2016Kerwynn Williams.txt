@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Kerwynn Williams, ARI, SEA, RB, 0, 0, 
+Kerwynn Williams, ARI, CAR, RB, 0, 0, 
+Kerwynn Williams, ARI, SFO, RB, 0, 0, 
+Kerwynn Williams, ARI, MIN, RB, 0, 0, 
+Kerwynn Williams, ARI, ATL, RB, 2, 0, 
+Kerwynn Williams, ARI, WAS, RB, 1, 0, 
+Kerwynn Williams, ARI, MIA, RB, 3, 3.40, 
+Kerwynn Williams, ARI, NOR, RB, 12, 12.30, 
+Kerwynn Williams, ARI, SEA, RB, 2, 0.60, 
+Kerwynn Williams, ARI, LAR, RB, 31, 12.00, 

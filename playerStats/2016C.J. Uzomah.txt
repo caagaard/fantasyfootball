@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+C.J. Uzomah, CIN, NYJ, TE, 52, 5.90, 
+C.J. Uzomah, CIN, PIT, TE, 41, 0.90, 
+C.J. Uzomah, CIN, DEN, TE, 39, 3.10, 
+C.J. Uzomah, CIN, MIA, TE, 42, 4.50, 
+C.J. Uzomah, CIN, DAL, TE, 54, 4.30, 
+C.J. Uzomah, CIN, NWE, TE, 48, 0.60, 
+C.J. Uzomah, CIN, CLE, TE, 14, 0, 
+C.J. Uzomah, CIN, NYG, TE, 1, 0, 
+C.J. Uzomah, CIN, HOU, TE, 61, 2.80, 
+C.J. Uzomah, CIN, BAL, TE, 59, 7.30, 

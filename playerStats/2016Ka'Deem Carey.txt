@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Ka'Deem Carey, CHI, HOU, RB, 2, 0.40, 
+Ka'Deem Carey, CHI, PHI, RB, 10, 0.60, 
+Ka'Deem Carey, CHI, IND, RB, 2, 1.70, 
+Ka'Deem Carey, CHI, JAX, RB, 25, 5.00, 
+Ka'Deem Carey, CHI, GNB, RB, 26, 5.70, 
+Ka'Deem Carey, CHI, MIN, RB, 6, 0.30, 
+Ka'Deem Carey, CHI, TAM, RB, 8, 1.50, 
+Ka'Deem Carey, CHI, NYG, RB, 0, 0, 
+Ka'Deem Carey, CHI, TEN, RB, 4, 1.80, 
+Ka'Deem Carey, CHI, SFO, RB, 6, 0.80, 
+Ka'Deem Carey, CHI, DET, RB, 2, 0.20, 
+Ka'Deem Carey, CHI, GNB, RB, 7, 0.10, 

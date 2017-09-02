@@ -1,0 +1,11 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Jacquizz Rodgers , TAM, ARI, RB, 17, 2.90, 
+Jacquizz Rodgers , TAM, LAR, RB, 21, 2.30, 
+Jacquizz Rodgers , TAM, DEN, RB, 30, 2.90, 
+Jacquizz Rodgers , TAM, CAR, RB, 68, 12.90, 
+Jacquizz Rodgers , TAM, SFO, RB, 51, 16.30, 
+Jacquizz Rodgers , TAM, OAK, RB, 43, 13.80, 
+Jacquizz Rodgers , TAM, SDG, RB, 22, 5.00, 
+Jacquizz Rodgers , TAM, NOR, RB, 7, 0, 
+Jacquizz Rodgers , TAM, NOR, RB, 37, 13.80, 
+Jacquizz Rodgers , TAM, CAR, RB, 43, 7.90, 

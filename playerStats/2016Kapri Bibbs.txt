@@ -1,0 +1,13 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Kapri Bibbs, DEN, CAR, RB, 2, 0.60, 
+Kapri Bibbs, DEN, IND, RB, 10, 0.70, 
+Kapri Bibbs, DEN, CIN, RB, 0, 0, 
+Kapri Bibbs, DEN, TAM, RB, 6, 1.40, 
+Kapri Bibbs, DEN, ATL, RB, 0, 0, 
+Kapri Bibbs, DEN, SDG, RB, 0, 0, 
+Kapri Bibbs, DEN, HOU, RB, 0, 0, 
+Kapri Bibbs, DEN, SDG, RB, 8, 0.40, 
+Kapri Bibbs, DEN, OAK, RB, 9, 14.00, 
+Kapri Bibbs, DEN, NOR, RB, 18, 2.20, 
+Kapri Bibbs, DEN, KAN, RB, 30, 2.20, 
+Kapri Bibbs, DEN, JAX, RB, 11, 4.90, 

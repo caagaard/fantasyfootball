@@ -1,0 +1,10 @@
+Name, team, opp, pos, snaps, fantasy_pts 
+Austin Seferian-Jenkins, TAM, ATL, TE, 18, 9.00, 
+Austin Seferian-Jenkins, TAM, ARI, TE, 34, 1.40, 
+Austin Seferian-Jenkins, NYJ, PIT, TE, 20, 1.70, 
+Austin Seferian-Jenkins, NYJ, MIA, TE, 19, 0, 
+Austin Seferian-Jenkins, NYJ, NWE, TE, 15, 0.90, 
+Austin Seferian-Jenkins, NYJ, IND, TE, 19, 2.90, 
+Austin Seferian-Jenkins, NYJ, SFO, TE, 38, 3.50, 
+Austin Seferian-Jenkins, NYJ, MIA, TE, 23, 0.30, 
+Austin Seferian-Jenkins, NYJ, NWE, TE, 4, 1.70, 
