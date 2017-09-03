@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 import re
 import os
 
-os.chdir("/home/chris/Documents/projects/ffootball/pastRankings")
 names = ['berry', 'cockroft', 'kara', 'clay', 'yates']
 
 def posRanks(tableIn, cap):
@@ -17,23 +16,31 @@ def posRanks(tableIn, cap):
         ranks.append(name)
     return(ranks)
 
+def defRanks(tableIn, cap):
+    rows = tableIn.find_all('tr.last')
+    ranks = []
+    for row in rows:
+        name = row.td.contents[0]
+        ranks.append(name)
+    return(ranks)
+
 #    Handles individual analyst rankings
 for name in names:
-    infile = open('2017'+name + '.html', 'r').read()
+    infile = open('rankings/2017'+name + '.html', 'r').read()
     soup = BeautifulSoup(infile, 'lxml')
 
     tables = soup.find_all(cellspacing = '0')
-    qb_table = tables[2]
+    qb_table = tables[1]
     qbs = posRanks(qb_table, 15)
-    rb_table = tables[3]
+    rb_table = tables[2]
     rbs = posRanks(rb_table, 40)
-    wr_table = tables[4]
+    wr_table = tables[3]
     wrs = posRanks(wr_table, 42)
-    te_table = tables[5]
+    te_table = tables[4]
     tes = posRanks(te_table, 15)
     def_table = tables[6]
-    dst = posRanks(def_table, 15)
-    k_table = tables[7]
+    dst = defRanks(def_table, 15)
+    k_table = tables[5]
     ks = posRanks(k_table, 15)
 
     outfile = open('2017ranks'+name+'.csv', 'w')
@@ -44,7 +51,7 @@ for name in names:
     outfile.close()
 
 #    Handles staff rankings
-infile = open('2017main.html', 'r').read()
+infile = open('rankings/2017main.html', 'r').read()
 soup = BeautifulSoup(infile,'lxml')
 
 tables = soup.find_all(cellspacing = '0')
