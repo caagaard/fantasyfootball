@@ -7,7 +7,7 @@
 from bs4 import BeautifulSoup
 import posSort
 
-years = ['2012', '2013', '2014', '2015', '2016']
+years = ['2017']#['2012', '2013', '2014', '2015', '2016']
 
 for year in years:
     infile = open(year+'live.html', 'r').read()
