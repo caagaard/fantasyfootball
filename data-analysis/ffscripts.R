@@ -397,12 +397,12 @@ bigTest <- function(rank1, rank2) {
 
 # makes a list or predicted rank vectors for players at a given position
 makeNameRanks <- function(){
-  for (i in 1:length(qbnames)) {
+  for (i in 1:length(tenames)) {
     temprank <- c()
     for (j in 1:5) {
-      temprank <- c(temprank, which(qb2016pre[[j]] == qbnames[i]))q
+      temprank <- c(temprank, which(te2017pre[[j]] == tenames[i]))
     }
-    qbranklist[[i]] <- temprank
+    teranklist[[i]] <- temprank
   }
-  qbranklist
+  teranklist
 }
